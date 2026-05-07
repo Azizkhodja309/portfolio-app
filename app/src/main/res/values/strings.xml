@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Portfolio</string>
+
+    <!-- Bottom navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_about">About</string>
+    <string name="nav_projects">Projects</string>
+    <string name="nav_contact">Contact</string>
+
+    <!-- Home -->
+    <string name="home_greeting">Salom, men</string>
+    <string name="home_name">Azizxo\'ja</string>
+    <string name="home_role">FullStack Developer</string>
+    <string name="home_intro">Men Web, Telegram, Exctention va Android ilovalarini ishlab chiqaman. Java, Javascript, NextJS, NestJS, React, Kotlin, XML va Material Design bilan zamonaviy yechimlar yarataman.</string>
+    <string name="profile_image_desc">Profile image</string>
+
+    <!-- About -->
+    <string name="about_title">Men haqimda</string>
+    <string name="about_full_name">Ism-familiya</string>
+    <string name="about_full_name_value">Azizxo\'ja Azimxo\'jayev</string>
+    <string name="about_education">O\'qish joyi</string>
+    <string name="about_education_value">Toshkent Axborot Texnologiyalari Universiteti</string>
+    <string name="about_specialty">Mutaxassislik</string>
+    <string name="about_specialty_value">Dasturiy injiniring</string>
+    <string name="about_workplace">Ish joyi</string>
+    <string name="about_workplace_value">EasyRelay Startup company</string>
+    <string name="about_skills">Texnologiyalar</string>
+    <string name="about_skills_value">Kotlin, Java, NestJS, NextJS, React, Vite, Android SDK, XML, Jetpack, Firebase, Git</string>
+    <string name="about_bio">Bio</string>
+    <string name="about_bio_value">Toza arxitektura, zamonaviy UI va sifatli kod yozishni yaxshi ko\'raman. O\'rganishni to\'xtatmayman va yangi texnologiyalarga doim qiziqaman.</string>
+
+    <!-- Projects -->
+    <string name="projects_title">Mening loyihalarim</string>
+    <string name="projects_subtitle">Yaqinda ishlagan loyihalarim</string>
+    <string name="open_link">Havolani ochish</string>
+
+    <!-- Contact -->
+    <string name="contact_title">Bog\'lanish</string>
+    <string name="contact_subtitle">Men bilan bog\'lanish uchun</string>
+    <string name="contact_email_label">Email</string>
+    <string name="contact_email_value">azizxojaazimxojayev81@gmail.com</string>
+    <string name="contact_phone_label">Telefon</string>
+    <string name="contact_phone_value">+998 99 786 35 70</string>
+    <string name="contact_telegram_label">Telegram</string>
+    <string name="contact_telegram_value">@azimxojayev_azizxoja</string>
+    <string name="contact_github_label">GitHub</string>
+    <string name="contact_github_value">github.com/Azizkhodja309</string>
+    <string name="contact_linkedin_label">LinkedIn</string>
+    <string name="contact_linkedin_value">linkedin.com/in/azizkhan-l-987b69365</string>
+</resources>
